@@ -1,6 +1,8 @@
-# Pico4 Unity Template
+# Pico SDK Unity Template
 
 **Unity 2022.3.16.f** template project for PICO Unity Integration **SDK v2.4.0**
+
+Tested on Pico 4 VR Headset.
 
 References:
 
