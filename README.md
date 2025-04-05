@@ -28,7 +28,7 @@ If not, select it and click `Switch Platform`.
 5. Connect your Pico 4 headset via USB,
 then use `File > Build and Run` to deploy the project to the device.
 
-## References
+## Resources
 
 * [Resources. PICO Unity Integration SDK][1]
 * [PICO Developer. Set up the development environment][2]
