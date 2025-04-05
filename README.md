@@ -21,10 +21,11 @@ with **Android Build Support** module installed.
 1. Clone this repository or download the project ZIP file.
 2. Open the project folder using Unity Hub
 (ensure you select Unity version 2022.3.16f).
-3. Verify Build Settings: Go to `File > Build Settings`.
+3. Open "SampleScene".
+4. Verify Build Settings: Go to `File > Build Settings`.
 Ensure `Android` is the selected platform.
 If not, select it and click `Switch Platform`.
-4. Connect your Pico 4 headset via USB,
+5. Connect your Pico 4 headset via USB,
 then use `File > Build and Run` to deploy the project to the device.
 
 ## References
