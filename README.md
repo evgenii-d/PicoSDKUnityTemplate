@@ -1,7 +1,7 @@
 # Pico SDK Unity Template
 
-A starter template project for Unity **2022.3.16.f**
-using the PICO Unity Integration **SDK v2.4.0**.
+A starter template project for **Unity 2022.3.16.f**
+using the **PICO Unity Integration SDK v2.4.0**.
 
 ## Features
 
