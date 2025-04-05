@@ -21,7 +21,7 @@ with **Android Build Support** module installed.
 1. Clone this repository or download the project ZIP file.
 2. Open the project folder using Unity Hub
 (ensure you select Unity version 2022.3.16f).
-3. Open "SampleScene".
+3. Open `SampleScene`.
 4. Verify Build Settings: Go to `File > Build Settings`.
 Ensure `Android` is the selected platform.
 If not, select it and click `Switch Platform`.
