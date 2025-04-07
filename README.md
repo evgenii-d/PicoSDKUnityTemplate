@@ -1,11 +1,11 @@
 # Pico SDK Unity Template
 
 A starter template project for **Unity 6000.0.45f1**
-using the [**PICO Unity Integration SDK v3.1.0**][1].
+using the [**PICO Unity OpenXR SDK v1.3.0**][1].
 
 ## Features
 
-* Pre-imported PICO Unity Integration SDK v3.1.0.
+* Pre-imported PICO Unity OpenXR SDK v1.3.0.
 * Project settings pre-configured for Pico development.
 * Android Build Settings configured for Pico deployment.
 
@@ -27,4 +27,4 @@ with **Android Build Support** module installed.
 5. Connect your Pico 4 headset via USB,
 6. Use `File > Build and Run` to deploy the project to the device.
 
-[1]:https://developer.picoxr.com/document/unity/
+[1]:https://developer.picoxr.com/document/unity-openxr/
